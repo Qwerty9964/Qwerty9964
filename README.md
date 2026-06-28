@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Carter
+#  Hi! I'm Carter.
 
 ### High School Developer • Engineering • Simulation
 
