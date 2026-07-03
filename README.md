@@ -42,7 +42,7 @@ I'm interested in **software development** and **engineering**, especially proje
 
 ##  Interests
 
-- Artificial Intelligence
+- Artificial Intelligence and Machine Learning
 - Engineering
 - Simulation & Modeling
 - Mathematics
