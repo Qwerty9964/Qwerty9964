@@ -10,7 +10,7 @@ I'm interested in **software development** and **engineering**, especially proje
 
 ---
 
-## 💻 Languages
+##  Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,html,css" />
@@ -18,7 +18,7 @@ I'm interested in **software development** and **engineering**, especially proje
 
 ---
 
-## 📚 Things I'm Learning
+##  Things I'm Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,threejs,flask" />
@@ -26,7 +26,7 @@ I'm interested in **software development** and **engineering**, especially proje
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Qwerty9964&show_icons=true&theme=github_dark&hide_border=true" />
 
@@ -34,13 +34,13 @@ I'm interested in **software development** and **engineering**, especially proje
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=Qwerty9964&theme=github-dark&hide_border=true" />
 
 ---
 
-## 🎯 Interests
+##  Interests
 
 - Artificial Intelligence
 - Engineering
@@ -51,7 +51,7 @@ I'm interested in **software development** and **engineering**, especially proje
 
 ---
 
-## 📫 Contact
+##  Contact
 
 📧 **30alfersc@smtexas.org**
 
