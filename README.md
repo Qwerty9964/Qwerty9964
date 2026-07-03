@@ -6,7 +6,7 @@
 
 I'm a student at **Saint Mark's School of Texas**.
 
-I'm interested in **computer science** and **engineering**, especially projects involving math, simulations, artificial intelligence, and solving real problems.
+I'm interested in **software development** and **engineering**, especially projects involving math, simulations, artificial intelligence, and solving real problems.
 
 ---
 
@@ -18,7 +18,7 @@ I'm interested in **computer science** and **engineering**, especially projects 
 
 ---
 
-## 📚 Currently Learning
+## 📚 Things I'm Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,threejs,flask" />
