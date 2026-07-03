@@ -28,9 +28,9 @@ I'm interested in **software development** and **engineering**, especially proje
 
 ##  GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Qwerty9964&show_icons=true&theme=github_dark&hide_border=true" />
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Qwerty9964&show_icons=true&theme=github_dark&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qwerty9964&layout=compact&theme=github_dark&hide_border=true" />
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Qwerty9964&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
