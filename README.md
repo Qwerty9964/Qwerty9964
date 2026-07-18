@@ -2,7 +2,7 @@
 
 #  Hi! I'm Carter.
 
-I'm pretty interested in programming and engineering. I like challenging myself intelectually, and those hobbies fufill that for me. Vibe coding, not as much, because it is just essentially outsourcing critical thinking. AI is still a valuable tool though, and I do believe it can be useful, if you use it the right way. In fact, the math behind machine learning is something of interest to me.
+I'm pretty interested in programming and engineering. I like challenging myself intellectually, and those hobbies fufill that for me. Vibe coding, not as much, because it is just essentially outsourcing critical thinking. AI is still a valuable tool though, and I do believe it can be useful, if you use it the right way. In fact, the math behind machine learning is something of interest to me.
 
 ---
 
