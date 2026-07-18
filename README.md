@@ -2,27 +2,11 @@
 
 #  Hi! I'm Carter.
 
-### High School Developer • Engineering • Simulation
-
-I'm a student at **Saint Mark's School of Texas**.
-
-I'm interested in **software development** and **engineering**, especially projects involving math, simulations, artificial intelligence, and solving real problems.
+I'm pretty interested in programming and engineering. I like challenging myself intelectually, and those hobbies fufill that for me. Vibe coding, not as much, because it is just essentially outsourcing critical thinking. AI is still a valuable tool though, and I do believe it can be useful, if you use it the right way. In fact, the math behind machine learning is something of interest to me.
 
 ---
 
-##  Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
-</p>
-
----
-
-##  Things I'm Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,threejs,flask" />
-</p>
+I know some Python, Java, Javascript, HTML, CSS. And in terms of frameworks I know some AFRAME.js, THREE.js, express, node.
 
 ---
 
@@ -37,17 +21,6 @@ I'm interested in **software development** and **engineering**, especially proje
 ##  GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=Qwerty9964&theme=github-dark&hide_border=true" />
-
----
-
-##  Interests
-
-- Artificial Intelligence and Machine Learning
-- Engineering
-- Simulation & Modeling
-- Mathematics
-- Full-Stack Development
-- Building useful software
 
 ---
 
